@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fcf3017-d50f-46ce-a125-98e7fc8fd38c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/036a2189-4323-4723-a900-5aae3bf39dc9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/10fbe4b7-235d-4327-8614-1166a127b39b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1719142e-9511-4f60-945b-a133d149aabf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a5b23c9-4874-42c9-bdfc-ecd0c8fcd346-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1f437566-e178-44b1-958f-25489a515ee6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/25930cc1-58d5-4d6a-a07a-db930af3f0cd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47129661-bdf5-468d-90fd-b5d18361960f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/87d2d035-b919-4ac9-b5c0-efc9fcc67034-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8e6c835b-30df-489e-b7fb-cc86127ae767-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/90569ac6-b359-476b-9fbf-6e65350dcd16-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aa3196aa-22d1-4b8c-b7fc-1faa1c1ab563-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c4a67c4c-ea5f-4b48-abd7-2e411bcb6568-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cdf8e492-8429-423d-91ff-fe03219b5f17-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d1dcdcff-9a31-40c5-b7c4-249a78b5504a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d3888a7e-1628-4273-b467-b048e43f5099-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8982e38-66c5-49b5-9fe4-0e28fdb3ec42-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fb6a12d5-e069-4ab9-8cbc-27bbce41cecd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fe8525f0-142a-46bc-8a05-2ddac54c5661-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/KongaOrderingFlowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PcXvH8giTQcTUYUiUH7DBMg6Sz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Horpee/KongaTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Horpee\KongaTest\Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.KongaOrderingFlowTest">
+    <configuration name="C:/Users/Horpee/KongaTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KongaTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongaOrderingFlowTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KongaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KongaOrderingFlowTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongaOrderingFlowTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KongaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KongaOrderingFlowTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongaOrderingFlowTest.selectpaymentmethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KongaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KongaOrderingFlowTest" />
+      <option name="METHOD_NAME" value="selectpaymentmethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.KongaOrderingFlowTest" />
+        <item itemvalue="TestNG.KongaOrderingFlowTest (1)" />
+        <item itemvalue="TestNG.C:/Users/Horpee/KongaTest/testng.xml" />
+        <item itemvalue="TestNG.KongaOrderingFlowTest.selectpaymentmethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fcf3017-d50f-46ce-a125-98e7fc8fd38c" name="Changes" comment="" />
+      <created>1683757580208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683757580208</updated>
+      <workItem from="1683757582409" duration="8961000" />
+      <workItem from="1683797767040" duration="1129000" />
+      <workItem from="1683801466025" duration="112000" />
+      <workItem from="1683801771443" duration="302000" />
+      <workItem from="1683802217595" duration="9041000" />
+      <workItem from="1683816998851" duration="5118000" />
+      <workItem from="1683832787792" duration="17711000" />
+      <workItem from="1683872142195" duration="1812000" />
+      <workItem from="1683874015762" duration="1477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
